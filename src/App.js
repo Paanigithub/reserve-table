@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-     Home Page
+     Updated Page
     </div>
   );
 }
